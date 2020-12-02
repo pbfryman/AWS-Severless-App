@@ -1,0 +1,5 @@
+{
+  "api": { 
+    "invokeUrl": "https://44991eikda.execute-api.us-east-2.amazonaws.com/prod"
+  } 
+}
